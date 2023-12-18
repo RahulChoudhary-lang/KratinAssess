@@ -1,0 +1,20 @@
+body {
+    background-image: url('/2.jpeg');
+}
+
+.mainClass {
+    text-align: center;
+}
+
+.mainClass li {
+    display: inline-block;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+}
